@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumareswaran567/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Kumareswaran567/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kumareswaran567/Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kumareswaran567/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Kumareswaran567/Leetcode/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Kumareswaran567/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
