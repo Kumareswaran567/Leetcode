@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kumareswaran567/Leetcode/tree/master/0062-unique-paths) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumareswaran567/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kumareswaran567/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kumareswaran567/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
