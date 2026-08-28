@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kumareswaran567/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Kumareswaran567/Leetcode/tree/master/0038-count-and-say) |
+| [0242-valid-anagram](https://github.com/Kumareswaran567/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Kumareswaran567/Leetcode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Kumareswaran567/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Kumareswaran567/Leetcode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Kumareswaran567/Leetcode/tree/master/3731-find-missing-elements) |
 ## Recursion
