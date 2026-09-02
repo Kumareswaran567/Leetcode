@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumareswaran567/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Kumareswaran567/Leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kumareswaran567/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kumareswaran567/Leetcode/tree/master/0062-unique-paths) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumareswaran567/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kumareswaran567/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
