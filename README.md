@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Kumareswaran567/Leetcode/tree/master/0046-permutations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumareswaran567/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Kumareswaran567/Leetcode/tree/master/3731-find-missing-elements) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Kumareswaran567/Leetcode/tree/master/0046-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
