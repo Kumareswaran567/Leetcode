@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kumareswaran567/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Kumareswaran567/Leetcode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Kumareswaran567/Leetcode/tree/master/0242-valid-anagram) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kumareswaran567/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Kumareswaran567/Leetcode/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Kumareswaran567/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
