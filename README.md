@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Kumareswaran567/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Kumareswaran567/Leetcode/tree/master/0078-subsets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumareswaran567/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kumareswaran567/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Kumareswaran567/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Kumareswaran567/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Kumareswaran567/Leetcode/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kumareswaran567/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Kumareswaran567/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
